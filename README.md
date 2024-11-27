@@ -164,9 +164,11 @@ After filtering, the image consists of lanes with some noise. Projection is crit
 
 <h2>3 Results</h2>
 
-<h3>Results of lane detection and switching</h3>
+<h3>Results of lane detection and switching on the original video</h3>
 
 https://github.com/user-attachments/assets/35b949ea-8fa3-4c44-8e49-3544f40538c5
+
+<h3>Results of lane detection and switching on the pre-processed video containing only the detected lanes (Red) and vehicle ROI projection (Blue)</h3>
 
 https://github.com/user-attachments/assets/a2b00d7c-0edf-4395-91b4-343e58803a6e
 
