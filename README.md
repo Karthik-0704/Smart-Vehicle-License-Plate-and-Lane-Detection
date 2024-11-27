@@ -11,6 +11,9 @@
         This system can assist beginners in driving vehicles safely and support professional drivers during reverse gear operations. It can also detect different lane types, which convey various traffic rules. In summary, as a safety and smart assistant, lane detection using image processing can help reduce accidents and road risks.
     </p>
 
+https://github.com/user-attachments/assets/69754126-f072-43b5-a0e9-159bb3a9aac4
+
+
   <h2>1.2 Scope</h2>
     <p>
         Lane detection systems used in Advanced Driver Assistance Systems (ADAS) should perform reliably in all environments, considering:
@@ -152,10 +155,20 @@ After filtering, the image consists of lanes with some noise. Projection is crit
     <p>
         More information about Python can be found at <a href="https://www.python.org/">python.org</a>.
     </p>
+   
 
  <h2>2.4 Software Requirement</h2>
     <p>
         The software used is PyCharm Community Edition 2021.3.2, which provides a simple and effective environment for implementing Python codes. The ease of installing modules aids in algorithm building.
     </p>
+
+<h2>3 Results</h2>
+
+<h3>Results of lane detection and switching</h3>
+
+https://github.com/user-attachments/assets/35b949ea-8fa3-4c44-8e49-3544f40538c5
+
+https://github.com/user-attachments/assets/a2b00d7c-0edf-4395-91b4-343e58803a6e
+
 </body>
 </html>
